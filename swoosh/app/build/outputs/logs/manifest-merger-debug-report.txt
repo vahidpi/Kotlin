@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/59fc50de079ed993282c44a715f20990/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-2/files-2.1/19ba1f5b2a09a92449e6842b2ac3b57d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/4230ffd20a8afff37451ff7ed33fd4f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/853521a967b4c7e89cd3e26277838132/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/d48cafd3df8af0a5f964e5c31c5f6b3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/2185da9c8719458e55ff45b25a1a3ee5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/1d109c006b325e4d4bfb6c0dc36d10a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/ba1a3c1b6f52a77b08b4bf405cdd59fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/602360097052bc11b68df7b8c5bcd09f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/315f722faa465316f151d3f4f6860245/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/e1c165501478705f6d0dd2e15ec952bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/495b5fd360bf8ab7af801f43402231d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/117a05d7cceaa057226d8740cc64c57f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/f8d7aa2d19a3db7d05bcef88bfe20095/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/974936fe2f396eda53248418832dfde7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/c5826a797b499b60bbee3de530bfa83e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/c395d91079684b0b7ad62d9cacb87211/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/4dc4c4df846c9866831796adf32938e5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /root/.gradle/caches/transforms-2/files-2.1/a019be820998e3d697688b943d3255d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/73413bacd2add048c56df2a7353d6209/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/fda769abc40eae6397c38a8d91a8ac0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/449d402f6f21c82d78a99989ea666d72/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /root/.gradle/caches/transforms-2/files-2.1/2b80a79bfc20f6c3c33fc7c4c8c0a3dc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /root/.gradle/caches/transforms-2/files-2.1/cccf5fd9c553cdb42d67a0e6a9495ce4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /root/.gradle/caches/transforms-2/files-2.1/a8d1d9c3c2255ceed4638261a411a52d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /root/.gradle/caches/transforms-2/files-2.1/68fc92d24509b57092c7bd7362a86ebf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/f12e6364d3174238fc2b6b56acedba45/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:3:11-39
+		INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:5:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-2/files-2.1/19ba1f5b2a09a92449e6842b2ac3b57d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-2/files-2.1/19ba1f5b2a09a92449e6842b2ac3b57d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/c5826a797b499b60bbee3de530bfa83e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/c5826a797b499b60bbee3de530bfa83e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/c395d91079684b0b7ad62d9cacb87211/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/c395d91079684b0b7ad62d9cacb87211/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/c5826a797b499b60bbee3de530bfa83e/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.example.swoosh.SkillActivity
+ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:12:9-13:20
+	android:name
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:12:19-48
+activity#com.example.swoosh.BaseActivity
+ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:14:9-15:20
+	android:name
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:14:19-47
+activity#com.example.swoosh.LeagueActivity
+ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:16:9-17:20
+	android:name
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:16:19-49
+activity#com.example.swoosh.MainActivity
+ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:22:27-74
+meta-data#preloaded_fonts
+ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:26:9-28:60
+	android:resource
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:28:17-58
+	android:name
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml:27:17-47
+uses-sdk
+INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml
+INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/59fc50de079ed993282c44a715f20990/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/59fc50de079ed993282c44a715f20990/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-2/files-2.1/19ba1f5b2a09a92449e6842b2ac3b57d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-2/files-2.1/19ba1f5b2a09a92449e6842b2ac3b57d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/4230ffd20a8afff37451ff7ed33fd4f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/4230ffd20a8afff37451ff7ed33fd4f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/853521a967b4c7e89cd3e26277838132/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/853521a967b4c7e89cd3e26277838132/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/d48cafd3df8af0a5f964e5c31c5f6b3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/d48cafd3df8af0a5f964e5c31c5f6b3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/2185da9c8719458e55ff45b25a1a3ee5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/2185da9c8719458e55ff45b25a1a3ee5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/1d109c006b325e4d4bfb6c0dc36d10a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/1d109c006b325e4d4bfb6c0dc36d10a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/ba1a3c1b6f52a77b08b4bf405cdd59fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/ba1a3c1b6f52a77b08b4bf405cdd59fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/602360097052bc11b68df7b8c5bcd09f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/602360097052bc11b68df7b8c5bcd09f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/315f722faa465316f151d3f4f6860245/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/315f722faa465316f151d3f4f6860245/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/e1c165501478705f6d0dd2e15ec952bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/e1c165501478705f6d0dd2e15ec952bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/495b5fd360bf8ab7af801f43402231d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/495b5fd360bf8ab7af801f43402231d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/117a05d7cceaa057226d8740cc64c57f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/117a05d7cceaa057226d8740cc64c57f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/f8d7aa2d19a3db7d05bcef88bfe20095/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/f8d7aa2d19a3db7d05bcef88bfe20095/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/974936fe2f396eda53248418832dfde7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/974936fe2f396eda53248418832dfde7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/c5826a797b499b60bbee3de530bfa83e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/c5826a797b499b60bbee3de530bfa83e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/c395d91079684b0b7ad62d9cacb87211/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/c395d91079684b0b7ad62d9cacb87211/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/4dc4c4df846c9866831796adf32938e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/4dc4c4df846c9866831796adf32938e5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /root/.gradle/caches/transforms-2/files-2.1/a019be820998e3d697688b943d3255d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /root/.gradle/caches/transforms-2/files-2.1/a019be820998e3d697688b943d3255d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/73413bacd2add048c56df2a7353d6209/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/73413bacd2add048c56df2a7353d6209/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/fda769abc40eae6397c38a8d91a8ac0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/fda769abc40eae6397c38a8d91a8ac0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/449d402f6f21c82d78a99989ea666d72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/449d402f6f21c82d78a99989ea666d72/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /root/.gradle/caches/transforms-2/files-2.1/2b80a79bfc20f6c3c33fc7c4c8c0a3dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /root/.gradle/caches/transforms-2/files-2.1/2b80a79bfc20f6c3c33fc7c4c8c0a3dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /root/.gradle/caches/transforms-2/files-2.1/cccf5fd9c553cdb42d67a0e6a9495ce4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /root/.gradle/caches/transforms-2/files-2.1/cccf5fd9c553cdb42d67a0e6a9495ce4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /root/.gradle/caches/transforms-2/files-2.1/a8d1d9c3c2255ceed4638261a411a52d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /root/.gradle/caches/transforms-2/files-2.1/a8d1d9c3c2255ceed4638261a411a52d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /root/.gradle/caches/transforms-2/files-2.1/68fc92d24509b57092c7bd7362a86ebf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /root/.gradle/caches/transforms-2/files-2.1/68fc92d24509b57092c7bd7362a86ebf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/f12e6364d3174238fc2b6b56acedba45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/f12e6364d3174238fc2b6b56acedba45/AndroidManifest.xml:20:5-44
+INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml
+INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml
+		ADDED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/src/main/AndroidManifest.xml

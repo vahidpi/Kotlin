@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jul 21 17:36:15 EEST 2019
+0.baseType=DIRECTORY
+0.base=/home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

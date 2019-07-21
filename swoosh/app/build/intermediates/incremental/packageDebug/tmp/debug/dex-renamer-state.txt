@@ -1,0 +1,4 @@
+#Sun Jul 21 17:36:15 EEST 2019
+base.0=/home/vahid/Documents/Personal/Projects/Kotlin/swoosh/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
